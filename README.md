@@ -1,6 +1,5 @@
 <h1>Hi 👋, I'm Piyush Joshi</h1>
-<h3>A passionate frontend developer from India</h3>
-
+<h3>A dedicated and skilled software developer from India, passionate about creating innovative and efficient solutions.</h3>
 <h3>🔭 Current Work</h3>
 <p>🌟 I’m currently working on <a href="https://www.campusbid.in/" target="_blank">CampusBid</a></p>
 
