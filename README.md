@@ -5,7 +5,7 @@ A passionate **Frontend Developer** from **India** 🌟
 ---
 
 ## 🔭 Current Work
-- I’m currently working on [**CampusBid**](https://www.campusbid.in/)
+- I’m currently working on [**CampusBid**](https://www.campusbid.in/) 
 
 ---
 
