@@ -4,19 +4,14 @@
 <h3>🔭 Current Work</h3>
 <p>🌟 I’m currently working on <a href="https://www.campusbid.in/" target="_blank">CampusBid</a></p>
 
-<h3>💬 Ask Me About:</h3>
-<p>Frontend Development: React, Next.js, TypeScript</p>
-<p>CSS Frameworks: Tailwind CSS, Sass</p>
-<p>Backend: Node.js, Express, MongoDB</p>
-
 <h3>📫 How to Reach Me:</h3>
 <p>📧 Email: <a href="mailto:piyushjoshi81204@gmail.com">piyushjoshi81204@gmail.com</a></p>
 
 <h3>🌐 Connect With Me:</h3>
 <p> 
-  <a href="https://twitter.com/piyushj17146399" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a> 
-  <a href="https://linkedin.com/in/piyush-joshi-324778254" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> 
-  <a href="https://leetcode.com/u/darkhawk49/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+  <a href="https://x.com/piyushj17146399" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/60/X_logo_2023.svg" alt="X" width="40" height="40" /></a> 
+  <a href="https://linkedin.com/in/piyush-joshi-324778254" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/08/LinkedIn_logo_initials.png" alt="LinkedIn" width="40" height="40" /></a> 
+  <a href="https://leetcode.com/u/darkhawk49/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/65/LeetCode_logo_2021.svg" alt="LeetCode" width="40" height="40" /></a>
 </p>
 
 <h3>🛠️ Languages and Tools:</h3>
