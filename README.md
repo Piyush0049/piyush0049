@@ -1,12 +1,5 @@
 <h1 align="center">Hi 👋, I'm Piyush Joshi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=piyush0049&label=Profile%20views&color=0e75b6&style=flat" alt="piyush0049" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=piyush0049" alt="piyush0049" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/piyushj17146399" target="blank"><img src="https://img.shields.io/twitter/follow/piyushj17146399?logo=twitter&style=for-the-badge" alt="piyushj17146399" /></a> </p>
-
 🔭 Current Work
 🌟 I’m currently working on [CampusBid](https://www.campusbid.in/)
 💬 Ask Me About:
