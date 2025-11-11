@@ -8,7 +8,7 @@
 
 <h3>🌐 Connect With Me:</h3>
 <p> 
-  <a href="https://twitter.com/piyushj17146399" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a> 
+  <a href="https://x.com/piyushj17146399" target="_blank"><img src="https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" /></a> 
   <a href="https://linkedin.com/in/piyush-joshi-324778254" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
