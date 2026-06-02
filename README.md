@@ -1,5 +1,4 @@
 <h1>Hi 👋, I'm Piyush Joshi</h1>
-<h3>A dedicated and skilled software developer from India, passionate about creating innovative and efficient solutions.</h3>
 <h3>📫 How to Reach Me:</h3>
 <p>📧 Email: <a href="mailto:piyushjoshi81204@gmail.com">piyushjoshi81204@gmail.com</a></p>
 
